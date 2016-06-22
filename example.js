@@ -8,7 +8,7 @@ write('Gone with the Wind', 'Margaret Mitchell', '9789630753661')
 alts(['9784794600448', '9783548248820', '9785750706471'])
 write.newline()
 
-function alts(isbns) {
+function alts (isbns) {
   write.arrow()
   write.bold('Alt ISBNS')
   isbns.forEach(write.dim)
