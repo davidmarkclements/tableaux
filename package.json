@@ -1,0 +1,26 @@
+{
+  "name": "tableaux",
+  "version": "1.0.0",
+  "description": "CLI table + auxiliary TTY write utils like dim, bold, newline and arrow",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "David Mark Clements",
+  "license": "MIT",
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmarkclements/tableaux.git"
+  },
+  "bugs": {
+    "url": "https://github.com/davidmarkclements/tableaux/issues"
+  },
+  "homepage": "https://github.com/davidmarkclements/tableaux#readme",
+  "dependencies": {
+    "zygon": "^0.1.0"
+  },
+  "devDependencies": {
+    "tap": "^5.7.3"
+  }
+}
