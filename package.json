@@ -1,6 +1,6 @@
 {
   "name": "tableaux",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI table + auxiliary TTY write utils like dim, bold, newline and arrow",
   "main": "index.js",
   "scripts": {
